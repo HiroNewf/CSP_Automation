@@ -11,7 +11,7 @@ Automates the task of saving Clip Studio Paint layers as their own PNG images.
 4. Run the python script `python3 clip.py`
 # Dependancies
 This program utilizes hotkeys in Clip Studio Paint to perform the necessary actions for saving each layer as its own PNG file. Before you run this script you must have the following hotkeys set in Clip Studio Paint:
-- Change Selected Layer (Layer Above): Up arrow
+- Change Selected Layer (Layer Above): alt+]
 - Show Layer: Shift+V
 - Export (Single Layer) as .png: Ctrl+;
 
