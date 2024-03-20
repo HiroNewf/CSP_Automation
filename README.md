@@ -1,5 +1,5 @@
 # CSP_Automation
-Automates the task of saving Clip Studio Paint layers as their own PNG images.
+Automates the task of saving Clip Studio Paint layers as their own PNG images. This thing is not efficient at all. I just wanted it to reliably work on most computers, even slow ones, if you want to improve the speed of it then mess around with the wait times set between each button press. 
 
 # Installation
 ## Windows
