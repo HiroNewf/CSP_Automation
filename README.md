@@ -5,7 +5,7 @@ Automates the task of saving Clip Studio Paint layers as their own PNG images. T
 ## Windows
 1. Download the exe file from the [releases](https://github.com/HiroNewf/CSP_Automation/releases) section of this repo
 ## Linux
-1. Clone this repo `git clone <https://github.com/HiroNewf/CSP_Automation.git`>
+1. Clone this repo `git clone https://github.com/HiroNewf/CSP_Automation.git`>
 2. Move into the repo's directory `cd CSP_Automation`
 3. Install the requirements `pip install -r requirements.txt`
 4. Run the python script `python3 clip.py`
