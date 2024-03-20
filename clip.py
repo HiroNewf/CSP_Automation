@@ -82,7 +82,7 @@ root = tk.Tk()
 root.title("Script Automation")
 root.geometry("300x100")
 
-hotkey_label = tk.Label(root, text="Press Ctrl + 7 to start/stop script")
+hotkey_label = tk.Label(root, text="Press Ctrl + 7 to start/stop the script")
 hotkey_label.pack()
 
 hotkey_label = tk.Label(root, text="Hide ALL layers before running the script")
